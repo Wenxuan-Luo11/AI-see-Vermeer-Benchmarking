@@ -125,10 +125,7 @@ python compute_and_plot_volumes.py
 
 ## 👥 Contributors & Academic Context
 
-Conducted as part of the **Experimental Research Project (ERP)** at the **University of Amsterdam**:
-- **Wenxuan "Owen" Luo**
-- Thekla van Oijen
-- Emily Palm
+Conducted as part of the **Embedded Research Project (ERP)** at the **University of Amsterdam**.
 
 *Evaluated using the open collections of the **Rijksmuseum Amsterdam**.*
 
